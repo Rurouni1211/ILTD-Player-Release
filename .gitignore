@@ -12,7 +12,6 @@
 *.dll
 *.lib
 *.pdb
-*.exe
 
 # VLC plugins and runtime files
 /plugins/
